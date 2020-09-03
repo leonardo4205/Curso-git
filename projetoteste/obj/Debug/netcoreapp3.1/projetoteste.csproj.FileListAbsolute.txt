@@ -1,0 +1,13 @@
+D:\repos\projetoteste\projetoteste\bin\Debug\netcoreapp3.1\projetoteste.exe
+D:\repos\projetoteste\projetoteste\bin\Debug\netcoreapp3.1\projetoteste.deps.json
+D:\repos\projetoteste\projetoteste\bin\Debug\netcoreapp3.1\projetoteste.runtimeconfig.json
+D:\repos\projetoteste\projetoteste\bin\Debug\netcoreapp3.1\projetoteste.runtimeconfig.dev.json
+D:\repos\projetoteste\projetoteste\bin\Debug\netcoreapp3.1\projetoteste.dll
+D:\repos\projetoteste\projetoteste\bin\Debug\netcoreapp3.1\projetoteste.pdb
+D:\repos\projetoteste\projetoteste\obj\Debug\netcoreapp3.1\projetoteste.csprojAssemblyReference.cache
+D:\repos\projetoteste\projetoteste\obj\Debug\netcoreapp3.1\projetoteste.AssemblyInfoInputs.cache
+D:\repos\projetoteste\projetoteste\obj\Debug\netcoreapp3.1\projetoteste.AssemblyInfo.cs
+D:\repos\projetoteste\projetoteste\obj\Debug\netcoreapp3.1\projetoteste.csproj.CoreCompileInputs.cache
+D:\repos\projetoteste\projetoteste\obj\Debug\netcoreapp3.1\projetoteste.dll
+D:\repos\projetoteste\projetoteste\obj\Debug\netcoreapp3.1\projetoteste.pdb
+D:\repos\projetoteste\projetoteste\obj\Debug\netcoreapp3.1\projetoteste.genruntimeconfig.cache
